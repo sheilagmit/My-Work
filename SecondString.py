@@ -2,7 +2,9 @@
 # Author: Sheila Bambrick
 # I used https://stackoverflow.com/ to help write the programme.
 
-# First, output the sentence in reverse order
+# The string to be inputted is "The quick brown fox jumps over the lazy dog."
+
+# First, output the string in reverse order
 txt = "The quick brown fox jumps over the lazy dog." [::-1]
 print(txt)
 
